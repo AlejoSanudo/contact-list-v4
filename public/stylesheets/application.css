@@ -1,0 +1,15 @@
+body{
+  background-color: #669966;
+}
+.page-header{
+  background-color: #666699;
+  color: white;
+  margin: -20px 0 20px;
+}
+ 
+.form-inline{
+  padding: 10px;
+}
+#edit_form{
+  visibility: hidden;
+}
